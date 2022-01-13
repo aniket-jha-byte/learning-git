@@ -1,4 +1,0 @@
-add abc to txt
-hello i am txt file
-i am having fun leaning github
-learned how to add on github
